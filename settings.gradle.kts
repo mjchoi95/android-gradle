@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GradleApplication"
-include ':app'
+include(":app")
